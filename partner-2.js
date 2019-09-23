@@ -11,3 +11,8 @@
  const CeFa = (num1) =>{
      return num1 * 1.8 +32;
  }
+ const GaLi = (num1)=>{
+  return num1 * 3.78;
+ }
+ 
+ 
