@@ -15,4 +15,6 @@
   return num1 * 3.78;
  }
  
- 
+ const ArTr = (num1,num2)=>{
+  return num1 * num2 * 0.5;
+ }
